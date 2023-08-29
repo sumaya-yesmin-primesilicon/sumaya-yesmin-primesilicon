@@ -8,7 +8,7 @@
     - PD (Physical Design)
     - SDC (Synopsys Design Constraint)
     - STA (Static timing analysis)
-    - **Programming language:** TCL(Tickle), C++/C, python
+    - **Programming language:** TCL (Tickle), C++/C, python
     - Git
     - Vim
     - MS-learn
